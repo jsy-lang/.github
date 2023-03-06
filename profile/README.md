@@ -1,7 +1,7 @@
-# JSY language dialect of JavaScript
+# JSY Language Dialect of JavaScript
 
 JSY is an indented (offside) JavaScript dialect. 
-Think modern JavaScript (ES6 to ES2022) but indented similar to [Python][] or [CoffeeScript][]
+Think modern JavaScript (ES6 to ES2022) but indented similar to [Python][] or [CoffeeScript][].
 
 Inspired by an indented dialect of LISP called [Wisp][],
 JSY primarily operates as a scanner-pass syntax transformation to change
@@ -33,10 +33,10 @@ extensive test suite, and adapting it to new tools like [Parcel][],
 
 ## Version 1.0
 
-Now we feel we are drinking our own champaign; it is time to share a 1.0 version.
+Now we feel we are drinking our own champaign, it is time to share a 1.0 version.
 
-I acknowledge the many who strongly dislike indented languages; JSY was not made for you. 
-JSY was made for ourselves first -- the thing we wish existed.
+I acknowledge the many who strongly dislike indented languages. JSY was not made for you. 
+JSY was made for ourselves first -- the thing we wished existed.
 And now JSY is offered for everyone who prefers indention over open/close punctuation.
 We hope some of you enjoy using it; we certainly do.
 
