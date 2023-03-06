@@ -22,7 +22,7 @@ allowing you to focus on the logic.
 
 ### History
 
-This project orginally started as [Babel][] extension plugin. In 2018, we
+This project originally started as [Babel][] extension plugin. In 2018, we
 transitioned the project to a scanner-based text transformation library
 independent of the Babel ecosystem, designed to work with [Rollup][] and
 similar transpilation tools in the JavaScript ecosystem. We've been iterating
