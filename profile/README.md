@@ -1,5 +1,4 @@
 # JSY indented JavaScript
-![JSY Logo](./jsy_logo.svg)
 
 JSY is a syntax dialect for ECMAScript using offside indentation
 similar to [Python][] or [CoffeeScript][]
